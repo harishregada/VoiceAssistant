@@ -1,0 +1,10 @@
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\bin\Debug\FormsApplication.exe.config
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\bin\Debug\FormsApplication.exe
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\bin\Debug\FormsApplication.pdb
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.csprojAssemblyReference.cache
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.Form1.resources
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.Properties.Resources.resources
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.csproj.GenerateResource.cache
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.csproj.CoreCompileInputs.cache
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.exe
+E:\CooL\VsProjects\DesktopApplications\FormsApplication\obj\Debug\FormsApplication.pdb
